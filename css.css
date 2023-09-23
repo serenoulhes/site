@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(rgb(22,22,22), rgb(25, 26, 26));
+}
+
+p, h1, pre, h3, h2, li{ 
+    color: goldenrod;
+}
+div {
+text-align: center;
+}
+
+.amgs{
+    width: 20%;
+}
+
+img {
+    width: 30%;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: red;
+}
+
+a { 
+    color: goldenrod;
+    text-decoration: none;
+}
